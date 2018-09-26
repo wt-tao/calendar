@@ -1,0 +1,28 @@
+page{
+  background: #00f;
+}
+.list_box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  margin-top: 30rpx;
+}
+.list_sub{
+  width: 70rpx;
+  height: 70rpx;
+  line-height: 70rpx;
+  text-align: center;
+  display: inline-block;
+  background: #fff;
+  margin:0 5rpx 5rpx 0;
+}
+.daan_box{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-top: 30rpx;
+  margin-left: 7rpx;
+}
+.daan_sub{
+  
+}

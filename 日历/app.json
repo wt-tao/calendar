@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/rilis/rili",
+    "pages/rili/rili",
+    "pages/ce/ce",
+   
+    "pages/asyncDome/asyncDome",
+    "pages/index/index",
+    
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

@@ -1,0 +1,5 @@
+<button open-type='feedback'>反馈</button>
+
+<view wx:for='{{60}}'>1</view>
+
+<navigator  url='/pages/ce/ce'>tiaoz</navigator>

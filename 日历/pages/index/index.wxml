@@ -1,0 +1,10 @@
+<view class='list_box' bindtap='listTap'>
+    <view class='list_sub' wx:for='{{list}}' wx:key='this' style='background:{{item==1&&"#ccc"||item==2&&"#fff"}};' data-item='{{item}}'>{{(item==1||item==2)?'':item}}</view>
+</view>
+
+<view class='daan_box' bindtap='daAnTap'>
+  <view class='daan_sub list_sub' wx:for='{{daAn}}' wx:key='this' data-item='{{item}}'>{{item}}</view>
+</view>
+<shareModel></shareModel>
+<button catchtap='click'>点击</button>
+<view wx:for="{{a}}">{{item}}</view>

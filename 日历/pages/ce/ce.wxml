@@ -1,0 +1,3 @@
+<view class='click' catchtap='tap'>点击</view>
+
+<view class='box a1 {{show&&"a2"}}' style=''></view>

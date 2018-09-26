@@ -1,0 +1,11 @@
+.shareModel_bg{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+.shareModel_main{
+  /* background: url('/image/bg.png') 0 0/100% 100%; */
+}

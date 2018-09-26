@@ -1,0 +1,5 @@
+{
+  "usingComponents":{
+    "shareModel":"/component/shareModel/shareModel"
+  }
+}
